@@ -13,4 +13,4 @@
 - Its Running Without Db so Block /ban /Broadcast Feature is currently Not available.
 
 ### Fork Repo Then click on below button of ur fork repo.  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AthulMP/CompressorBot)
